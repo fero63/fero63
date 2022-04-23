@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @fero63
 - 👀 I’m interested in lots of things. e.g. software engineering
-- 🌱 I’m currently learning ASP.NET and Docker.
+- 🌱 I’m currently learning ASP.NET, Python and Docker.
